@@ -11,7 +11,7 @@ Remember you must run it with Nomo App to sign transactions for the blockchain.
 
 For a comprehensive overview and walkthrough of the **Vitalis Health Plugin**, check out our presentation. Whether you're a developer, user, or just curious, this presentation provides insights and details that would give you a clear understanding of the value and functionalities Vitalis brings to the NOMO-app ecosystem.
 
-🔗 [**Watch the Vitalis Presentation**](https://your-presentation-link.com)
+🔗 [**Watch the Vitalis Presentation**]([https://your-presentation-link.com](https://www.canva.com/design/DAFu-Gmp1Y8/xcHlMhINww2f3xqkGUVbdQ/view?utm_content=DAFu-Gmp1Y8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 
 # 🚀 Quick Usage Guide
