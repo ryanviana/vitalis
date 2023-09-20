@@ -58,6 +58,8 @@ Make sure the backend is running on 3001 and the fronent in 3000. Then the NOMO-
 
 You are now free to make changes to the demo-plugin or experiment with the features. 
 
-## Checking the contract
+## Other resources
 
 NewHealthDashboard smartcontract address: 0x0308a840397048A39B910093eD15E5FFc9bb790F
+
+Presentation raw files: https://drive.google.com/drive/folders/1Za_aaq1LyN0PDMnNLJa4IMSc2lTJIuqj?usp=sharing
