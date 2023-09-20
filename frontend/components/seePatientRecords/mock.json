@@ -1,0 +1,26 @@
+[
+        {
+            "timestamp": "14/9/2023 10:42",
+            "symptom": "Febre e dor de barriga",
+            "medication": "Dorflex 20mg",
+            "notes": "Provavelmente e virose, retornar em 30 dias"
+        },
+        {
+            "timestamp": "14/9/2023 10:43",
+            "symptom": "Acúmulo de pele na parte superior do penis",
+            "medication": "Pomadinha",
+            "notes": "Definitivamente é fimose"
+        },
+        {
+            "timestamp": "15/9/2023 11:30",
+            "symptom": "Dor de cabeça persistente",
+            "medication": "Paracetamol 500mg",
+            "notes": "Possível enxaqueca, evitar luz forte"
+        },
+        {
+            "timestamp": "15/9/2023 12:15",
+            "symptom": "Manchas vermelhas pelo corpo",
+            "medication": "Creme antialérgico",
+            "notes": "Reação alérgica, verificar novos alimentos ou produtos utilizados"
+        }
+    ]
