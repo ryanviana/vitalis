@@ -52,6 +52,6 @@ Then the NOMO-app will ask you for a _plugin-URL_.
 
 Paste: `localhost:3000`
 
-Then the NOMO-app should launch the demo-plugin! 🚀🚀
+Make sure the backend is running on 3001 and the fronent in 3000. Then the NOMO-app should launch the demo-plugin! 🚀🚀
 
 You are now free to make changes to the demo-plugin or experiment with the features. 
