@@ -5,6 +5,8 @@ This package enables developers to integrate **Vitalis**, a health web3 solution
 
 This README will guide you on developing and integrating the Vitalis plugin for the NOMO-app. Also included is a demo plugin, showcasing the potential functionalities. Note that plugins should ideally be written in JavaScript or TypeScript.
 
+Remember you must run it with Nomo App to sign transactions for the blockchain.
+
 # 🎥 Vitalis Presentation
 
 For a comprehensive overview and walkthrough of the **Vitalis Health Plugin**, check out our presentation. Whether you're a developer, user, or just curious, this presentation provides insights and details that would give you a clear understanding of the value and functionalities Vitalis brings to the NOMO-app ecosystem.
@@ -55,3 +57,5 @@ Paste: `localhost:3000`
 Make sure the backend is running on 3001 and the fronent in 3000. Then the NOMO-app should launch the demo-plugin! 🚀🚀
 
 You are now free to make changes to the demo-plugin or experiment with the features. 
+
+NewHealthDashboard smartcontract address: 0x0308a840397048A39B910093eD15E5FFc9bb790F
